@@ -1,0 +1,19 @@
+
+rails:
+  bin:        C:/RailsInstaller/Ruby2.0.0/bin/rails.bat
+  version:
+
+ssh:
+  public_key_location: C:\Users\win/.ssh/id_rsa.pub
+  public_key_contents: ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC71ZEpyYaqTPdX0tZWA
+k7fj90IY+28vqxXJPrA5FVWKy2dzsAVl3r8B5Rr+BABeTG4MKqobABFTmMIF8vJQdcohcso1i3/BF1xg
+N84wSYTtTcfWwGh6gVGygQSLq2rBdfjVM0L2f3OyA4NjPUJEd88MKvYA+sa23bLSwlym3I4Qmr37jPk8
+rjmYlTbMZiIHu/DYWSmMn4Wa5qxsngQHdoVaROVxzgdZwrGgDk7BlXd5Fdnjg3aatJFncBXSqph9a1t4
+lrHNaNUonaQiYSNoPNwhwDdvu63mzQ+0fuwb7JFVOP3vXjc7TDsUoiPL+nvmtUQcGce+oW8B1qLHx+XP
+H+F Blues <727112948@qq.com>
+
+
+NOTES:
+
+  Your public ssh key (id_rsa.pub) has been automatically generated and copied t
+o your clipboard.
