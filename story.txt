@@ -17,3 +17,5 @@ NOTES:
 
   Your public ssh key (id_rsa.pub) has been automatically generated and copied t
 o your clipboard.
+
+这是用来增加辨识度的
